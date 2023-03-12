@@ -1,4 +1,5 @@
 import React, {ChangeEvent, MouseEvent, useState} from 'react';
+// этот файл скорее всего можно удалить
 
 
 type FullInputType = {
